@@ -9,7 +9,7 @@ A **private Swift Package** that wraps the `TelusDigitalVirtualAssistant.xcframe
 This repository is **private** and only accessible to authorized developers within the organization.
 
 Repository URL:
-https://github.com/sanjeevkumar03/MySPMLibrary.git
+https://github.com/sanjeevkumar03/TelusDigitalVirtualAssistant.git
 
 
 ---
@@ -21,7 +21,7 @@ To add the package to your Xcode project:
 1. Open your Xcode project or workspace
 2. Go to **File > Add Packages**
 3. Paste in the repository URL:
-https://github.com/sanjeevkumar03/MySPMLibrary.git
+https://github.com/sanjeevkumar03/TelusDigitalVirtualAssistant.git
 
 
 
@@ -39,7 +39,7 @@ If you're using a private repository, you must authenticate:
 ### Option 1: Use SSH (recommended)
 
 Use this format in Xcode:
-git@github.com:sanjeevkumar03/MySPMLibrary.git
+git@github.com:sanjeevkumar03/TelusDigitalVirtualAssistant.git
 
 
 Make sure your SSH key is added to your GitHub account.
