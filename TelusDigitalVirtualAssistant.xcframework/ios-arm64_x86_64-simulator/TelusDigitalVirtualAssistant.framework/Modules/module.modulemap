@@ -1,0 +1,6 @@
+framework module TelusDigitalVirtualAssistant {
+  umbrella header "TelusDigitalVirtualAssistant.h"
+  export *
+
+  module * { export * }
+}
