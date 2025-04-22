@@ -8,6 +8,9 @@ let package = Package(
         .library(name: "TelusDigitalVirtualAssistant", targets: ["TelusDigitalVirtualAssistant"]),
     ],
     targets: [
-        .target(name: "TelusDigitalVirtualAssistant", path: "Sources"),
+        .target(
+    name: "TelusDigitalVirtualAssistant",
+    path: "TelusDigitalVirtualAssistant"
+)
     ]
 )
