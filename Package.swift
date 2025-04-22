@@ -1,16 +1,21 @@
-// swift-tools-version:5.9
+// swift-tools-version:5.6
 import PackageDescription
 
 let package = Package(
     name: "TelusDigitalVirtualAssistant",
-    platforms: [.iOS(.v13)],
+    platforms: [
+        .iOS(.v13)
+    ],
     products: [
-        .library(name: "TelusDigitalVirtualAssistant", targets: ["TelusDigitalVirtualAssistant"]),
+        .library(
+            name: "TelusDigitalVirtualAssistant",
+            targets: ["TelusDigitalVirtualAssistant"]
+        ),
     ],
     targets: [
-        .target(
-    name: "TelusDigitalVirtualAssistant",
-    path: "TelusDigitalVirtualAssistant"
-)
+        .binaryTarget(
+            name: "TelusDigitalVirtualAssistant",
+            path: "./TelusDigitalVirtualAssistant.xcframework"
+        )
     ]
 )
