@@ -63,14 +63,4 @@ Your token must have `repo` scope to access private repositories.
 
 ---
 
-## 🧠 Usage
-
-Once integrated, import the module and begin using the virtual assistant:
-
-```swift
-import TelusDigitalVirtualAssistant
-
-let assistant = VirtualAssistant()
-assistant.start()
-
 
