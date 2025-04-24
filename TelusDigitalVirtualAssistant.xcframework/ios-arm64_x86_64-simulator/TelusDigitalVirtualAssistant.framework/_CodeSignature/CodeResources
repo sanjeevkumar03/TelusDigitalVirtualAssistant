@@ -174,7 +174,7 @@
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+z+JczRRVR3fKsZ7clTF70xPjNg=
+		F7YGTQc2wz/4/AADO+bE9oyBeko=
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -190,11 +190,11 @@
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fp65NorUISwzjxiIxpVyM4vn/s8=
+		FhU72W5aezFhXrFCBQcnn8sHfss=
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+z+JczRRVR3fKsZ7clTF70xPjNg=
+		F7YGTQc2wz/4/AADO+bE9oyBeko=
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yiZy1YAunpRUrBu6RJI1231twlo=
+		rmNXT61Wb1JNlPcrurtgFeJjbEA=
 		</data>
 		<key>QuickReplyCell.nib</key>
 		<data>
@@ -269,29 +269,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>de.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			KRQ8VEDBkiKHWx9r7TawX9k6vUg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>en.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -305,29 +287,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>fa.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			3FUyq3bTuF3qsS8m/RtSmLpl95o=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>fa.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f3kME8LcB9yILM1SWYLCFiDLJXo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -341,15 +305,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fil-PH.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fm9LnsEhMMdLkBMqc9bE6UeEN5s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -359,29 +314,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fr.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>ja.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			/s1Lb0lWGd2QQ4bccbJ8LTCkgcI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>ja.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fm9LnsEhMMdLkBMqc9bE6UeEN5s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -419,29 +356,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>nl.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f3kME8LcB9yILM1SWYLCFiDLJXo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>pa.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			39KQUhNnZrtrMa7NWyXK4cd2+cw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>pa.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f3kME8LcB9yILM1SWYLCFiDLJXo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -503,15 +422,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>tr.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f3kME8LcB9yILM1SWYLCFiDLJXo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>tripledes.js</key>
 		<data>
 		kY/hznLFGLelARNgtIpVYzR0BVU=
@@ -529,29 +439,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>zh-Hans.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>zh-Hant.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			QkxdhV9mY8PDPqdsFTIftU16rUM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>zh-Hant.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g0JHCHkhkvr6GfntAbSTNyA/nkc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -850,7 +742,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5nziMNI9WEiiMVSD0Qg/zP5YStDakInLaBIQBT0G2qU=
+			QmM/iD/mXKsrqmF7ksursBbqoS5QqvEC9ToZCH2xnr4=
 			</data>
 		</dict>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -878,14 +770,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jsFXfTqTKN8OoCRfxX+5IDiLzxR8s5e9CWp4Scwhj9w=
+			qZcB6G3xKpgGcoslRSQ4OzvJ0zLav6PgJ/cyjlLssU4=
 			</data>
 		</dict>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5nziMNI9WEiiMVSD0Qg/zP5YStDakInLaBIQBT0G2qU=
+			QmM/iD/mXKsrqmF7ksursBbqoS5QqvEC9ToZCH2xnr4=
 			</data>
 		</dict>
 		<key>Modules/TelusDigitalVirtualAssistant.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -913,7 +805,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gA4miz6WGoOoPLG43f9vamrsTQssWSSto6lidx9WSuA=
+			EZlvsNDiP4ZobJTC4GFlC5sfDciNCgz7tcOJlYqSxz4=
 			</data>
 		</dict>
 		<key>QuickReplyCell.nib</key>
@@ -1009,29 +901,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>de.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			VVnkPLSXAyS9N3Umw+zjAKUAoFemQa+avUObkn4uU60=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>en.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1045,29 +919,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>fa.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			wIiMb9OBnyQAetxr2c94BBXT9JzTwuhSueQBfw6oOng=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>fa.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MZnoi2v65MoNzqPHsQffyBLpvLP4P1AzqmM6Uz9VKE4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1081,15 +937,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fil-PH.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fYDRmdt4R9/v5Av/UqsRlF4b0v1sYHThNz+W+EltdWY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1099,29 +946,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fr.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>ja.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			kSS1CzXvxi+u7aKbvArb50vL/vLYmJ/eTRe/LBjtmm8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>ja.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fYDRmdt4R9/v5Av/UqsRlF4b0v1sYHThNz+W+EltdWY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1177,29 +1006,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>nl.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MZnoi2v65MoNzqPHsQffyBLpvLP4P1AzqmM6Uz9VKE4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>pa.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ILrpW2d7s5Zhq/EGMkZxYKphy2E4Bz+fu3lArlGEqlU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>pa.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MZnoi2v65MoNzqPHsQffyBLpvLP4P1AzqmM6Uz9VKE4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1297,15 +1108,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>tr.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MZnoi2v65MoNzqPHsQffyBLpvLP4P1AzqmM6Uz9VKE4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>tripledes.js</key>
 		<dict>
 			<key>hash2</key>
@@ -1329,29 +1131,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>zh-Hans.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>zh-Hant.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			2Hnhq/Y3WzcbqkolNOkvciJnnhOm4teQEkkwidTQW/o=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>zh-Hant.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8YV+C3Xlr2isY6WmB9Th2rWqSzrXtLVSF8hYX1k5XFM=
 			</data>
 			<key>optional</key>
 			<true/>
