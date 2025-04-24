@@ -3,6 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "TelusDigitalVirtualAssistant",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v13),
         .macOS(.v10_15)
