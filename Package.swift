@@ -1,4 +1,3 @@
-// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
@@ -31,10 +30,10 @@ let package = Package(
                 "IQKeyboardManager",
                 "ProgressHUD"
             ],
-            path: ".", // 👈 Use current directory as source root
+            path: "TelusDigitalVirtualAssistant",  // Specify a subfolder for source files
             exclude: [
                 "Package.swift",
-                "README.md" // exclude non-source files if any
+                "README.md"
             ]
         ),
     ]
