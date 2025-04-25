@@ -31,16 +31,10 @@ let package = Package(
                 "IQKeyboardManager",
                 "ProgressHUD"
             ],
-<<<<<<< HEAD
             path: ".", // 👈 Use current directory as source root
             exclude: [
                 "Package.swift",
                 "README.md" // exclude non-source files if any
-=======
-            path: "Sources/TelusDigitalVirtualAssistant",
-            resources: [
-                // .process("Resources") // Uncomment if needed
->>>>>>> 67a106f (added new xcframework)
             ]
         ),
     ]
