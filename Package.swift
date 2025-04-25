@@ -23,19 +23,20 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
+            name: "TelusDigitalVirtualAssistantBinary",
+            path: "Sources/TelusDigitalVirtualAssistant.xcframework"
+        ),
+        .target(
             name: "TelusDigitalVirtualAssistant",
-            path: "Sources/TelusDigitalVirtualAssistant.xcframework",
             dependencies: [
+                "TelusDigitalVirtualAssistantBinary",
                 "XMPPFramework",
                 "SDWebImage",
                 "SwiftyXMLParser",
                 "IQKeyboardManager",
                 "ProgressHUD"
             ],
-            exclude: [
-                "Package.swift",
-                "README.md"
-            ]
+            path: "Sources"
         )
     ]
 )
