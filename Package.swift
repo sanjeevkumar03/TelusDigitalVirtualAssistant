@@ -12,7 +12,7 @@ let package = Package(
         .library(
             name: "TelusDigitalVirtualAssistant",
             targets: ["TelusDigitalVirtualAssistant"]
-        ),
+        )
     ],
     dependencies: [
         .package(url: "https://github.com/robbiehanson/XMPPFramework.git", from: "4.0.0"),
@@ -22,20 +22,9 @@ let package = Package(
         .package(url: "https://github.com/relatedcode/ProgressHUD.git", from: "14.1.0")
     ],
     targets: [
-        .target(
+        .binaryTarget(
             name: "TelusDigitalVirtualAssistant",
-            dependencies: [
-                "XMPPFramework",
-                "SDWebImage",
-                "SwiftyXMLParser",
-                "IQKeyboardManager",
-                "ProgressHUD"
-            ],
-            path: ".", // 👈 Use current directory as source root
-            exclude: [
-                "Package.swift",
-                "README.md" // exclude non-source files if any
-            ]
-        ),
+            path: "Sources/TelusDigitalVirtualAssistant.xcframework"
+        )
     ]
 )
